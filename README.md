@@ -8,6 +8,7 @@ This script TOTALLY AUTOMATED running on ubuntu with multiple accounts and proxi
  - tokens
  - proxies
  - ubuntu server
+ - my script on python
 
 ## 1 account ~ 14k per 24h
 
