@@ -9,7 +9,7 @@ This script TOTALLY AUTOMATED running on ubuntu with multiple accounts and proxi
  - proxies
  - ubuntu server
 
-## 1 ip ~ 14k per 24h
+## 1 account ~ 14k per 24h
 
 ## Contacts
 [https://t.me/https://t.me/mixiaono](https://t.me/mixiaono)
